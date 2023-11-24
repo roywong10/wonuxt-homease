@@ -1,3 +1,6 @@
+db_data
+wordpress
+plugins
 node_modules
 .nuxt
 nuxt.d.ts
@@ -12,3 +15,5 @@ dist
 .vscode
 # Local Netlify folder
 .netlify
+**/*.md
+**/LICENSE
